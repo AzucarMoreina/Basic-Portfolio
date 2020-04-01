@@ -2,12 +2,12 @@
     width: 960px;
     margin: auto;
 }
-.main {
-    color:#ffffff;
+.main {    
     width: 100%;
     background:teal;
     display: flex;
-    flex-direction: row;  
+    flex-direction: row;
+    color:#ffffff;  
 }
 
 .links {
@@ -21,10 +21,17 @@
 }
 
 h1 {
-color:#4aaaa5;
-background:#ffffff;
-font-family: 'Georgia', 'Times New Roman', Times, serif;
+    color:#ffffff;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
+
+.Box1 {
+    width: 960px;
+    background-color: #ffffff;
+    text-align: center;
+    color: teal;
+}
+
 .footer {
     width: 100%;
     background:teal;
